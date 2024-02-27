@@ -1,5 +1,5 @@
 ## Hey!
-My name is **nick**! I am 19 y.o. game develover from Russia and I love making games! I have my own little unregistered game development studio - [`enoki studio`](https://t.me/enokistudio), which has only two people: me and my girlfriend!
+My name is **nick**! I am 19 y.o. game develover from Russia and I love making games! I have my own little unregistered game development studio - [`enoki studio`](https://t.me/enokistudio)! It has only two people: me and my girlfriend!
 
 ## Skills:
 ![Unity](https://img.shields.io/badge/Unity-ff5c5a?style=for-the-badge&logo=unity&logoColor=000000&color=ffffff)
