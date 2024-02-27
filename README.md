@@ -1,7 +1,7 @@
 ## Hey!
 My name is **nick**! I am 19 y.o. game develover from Russia and I love making games! I have my own little unregistered game development studio - [`enoki studio`](https://t.me/enokistudio)! It has only two people: me and my girlfriend!
 
-## Skills:
+## Stack:
 ![Unity](https://img.shields.io/badge/Unity-ff5c5a?style=for-the-badge&logo=unity&logoColor=000000&color=ffffff)
 ![C#](https://img.shields.io/badge/c%23-ff5c5a?style=for-the-badge&logo=c%23&logoColor=9b4f97&color=ffffff)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-ffffff?style=for-the-badge&logo=visual%20studio&logoColor=%235C2D91)
